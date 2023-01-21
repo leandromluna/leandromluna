@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lnxxxxxxxx&label=Profile%20views&color=0e75b6&style=flat" alt="lnxxxxxxxx" /> </p>
 
-- 🌱 I’m currently learning **Java,C#,RUST,C++**
+- 🌱 I’m currently learning **Java,C++,JS**
 
 - 📫 How to reach me **sick_ace51@hotmail.com**
 
