@@ -1,4 +1,4 @@
-[![MasterHead](https://technowebsolutions.in/wp-content/uploads/2019/05/software-development-banner-1-1500x450.jpg)](https://leandrmtln.vercel.app/)
+[![MasterHead](https://retecsol.com/wp-content/uploads/2021/06/foto_1.jpeg)](https://leandrmtln.vercel.app/)
 <h1 align="center">Hi 👋, I'm Leandro Luna :smile:</h1>
 <h3 align="center">A Software/IA Engineering student in Argentina</h3>
 <div align="center">
